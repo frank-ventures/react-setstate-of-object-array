@@ -12,6 +12,7 @@ export default function Form() {
   // const [numberOfPets, setNumberOfPets] = useState(1);
 
   // --- We don't need this function:
+  //
   // function makePetInputs() {
   //   let result = [];
   //   for (let i = 0; i < numberOfPets; i++) {
